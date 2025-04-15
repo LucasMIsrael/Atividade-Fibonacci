@@ -1,4 +1,4 @@
-### Nomes: Lucas Mendes Israel, Gustavo Henrique Costa, Gabriel D. kasten, Luiz Felipe Mondini, Gustavo Larsen
+### Nomes: Lucas Mendes Israel, Gustavo Henrique Costa, Gabriel D. kasten, Luis Felipe Mondini, Gustavo Larsen
 
 
 ## Fibonacci com Recursividade e Memoization
